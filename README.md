@@ -10,4 +10,4 @@ To install this package: (requires numpy, matplotlib.pyplot, and scipy to be ins
 download from github and save to hard drive
 go to the stream_depletion folder on your hard drive and open a command prompt
 use the command "pip install StreamDepletion .\dist\StreamDepletionPy-0.1.0-py3-none-any.whl"
-The installed package will be called StreamDepletionPy
+The installed package will be called StreamDepletionPy 
